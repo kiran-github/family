@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">family</string>
+    <string-array name="members"  >
+        <item>Papa</item>
+        <item>Mummy</item>
+        <item>Bro</item>
+        <item>Sis</item>
+        <item>Grandpa</item>
+    </string-array>
+    <string-array name="age"  >
+    <item>Age:51</item>
+    <item>Age:43</item>
+    <item>Age:17</item>
+    <item>Age:20</item>
+    <item>Age:89</item>
+</string-array>
+
+
+</resources>
